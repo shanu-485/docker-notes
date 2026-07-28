@@ -1,50 +1,51 @@
 # 🐳 Docker Notes
 
-Welcome to my Docker learning repository.
+Hands-on Docker learning repository as part of **Mission 2028**.
 
 ## 📚 Topics Covered
 
-- ✅ Day 1 - Docker Basics
-- ✅ Day 2 - Images & Containers
-- ✅ Day 3 - Dockerfile
-- ✅ Day 4 - Volumes & Networking
-- ✅ Day 5 - Docker Compose
-- ✅ Day 6 - Docker Mini Project
-- ✅ Day 7 - GitHub Portfolio
-
-## 🛠 Technologies
-
-- Docker
+- Docker Installation
+- Docker Architecture
+- Images
+- Containers
+- Docker Hub
+- Volumes
+- Bind Mounts
+- Networks
+- Port Mapping
+- Dockerfile
 - Docker Compose
-- Ubuntu (WSL)
-- Git & GitHub
+- Multi-Container Applications
+- Mini Projects
+
+## 📅 Learning Progress
+
+- ✅ Day 1 – Docker Basics
+- ✅ Day 2 – Images & Containers
+- ✅ Day 3 – Volumes
+- ✅ Day 4 – Networking
+- ⏳ Day 5 – Dockerfile
+- ⏳ Day 6 – Docker Compose
+- ⏳ Day 7 – Mini Project
 
 ## 📂 Repository Structure
 
 ```
 docker-notes/
-│
-├── Day1/
-├── Day2/
-├── Day3/
-├── Day4/
-├── Day5/
-├── Day6/
-├── Screenshots/
-└── README.md
+├── README.md
+├── Day-01-Docker-Basics.md
+├── Day-02-Images-and-Containers.md
+├── Day-03-Docker-Volumes.md
+├── Day-04-Docker-Networking.md
+├── Day-05-Dockerfile.md
+├── Day-06-Docker-Compose.md
+├── Day-07-Docker-Mini-Project.md
+└── projects/
 ```
 
-## 🚀 What I Learned
+## 🎯 Goal
 
-- Docker Images
-- Docker Containers
-- Dockerfile
-- Docker Volumes
-- Docker Networking
-- Docker Compose
-- Building Custom Images
-- Running Multi-container Applications
+Master Docker for Cloud Engineering, DevOps, Platform Engineering, and AI Infrastructure.
 
-## 👨‍💻 Author
-
-Shanu Maurya !
+---
+Mission 2028 🚀
